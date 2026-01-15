@@ -56,4 +56,4 @@ This demonstrated how HTTP traffic is transmitted in plaintext.
 ---
 
 ### Step 7: Save Capture File
-The captured traffic was saved as:
+The captured traffic was saved as:wireshark_capture.pcap
